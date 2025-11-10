@@ -1,0 +1,125 @@
+// Paises
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/paises.csv' AS row
+WITH row WHERE row.paisId IS NOT NULL
+MERGE (p:Pais {
+  paisId: row.paisId
+})
+SET p.nombre = row.nombre;
+
+// Idiomas
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/idiomas.csv' AS row
+WITH row WHERE row.idiomaId IS NOT NULL
+MERGE (i:Idioma {
+  idiomaId: row.idiomaId
+})
+SET i.nombre = row.nombre;
+
+// Categorías
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/categorias.csv' AS row
+WITH row WHERE row.categoriaId IS NOT NULL
+MERGE (c:Categoria {
+  categoriaId: row.categoriaId
+})
+SET c.nombre = row.nombre, c.descripcion = row.descripcion;
+
+// Usuarios
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/usuarios.csv' AS row
+WITH row WHERE row.usuarioId IS NOT NULL
+MERGE (u:Usuario {
+  usuarioId: row.usuarioId
+})
+SET u.nombre = row.nombre, u.edad = toInteger(row.edad), u.sexo = row.sexo, u.email = row.email, u.fechaNacimiento = date(row.fechaNacimiento);
+
+// Cursos
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/cursos.csv' AS row
+WITH row WHERE row.cursoId IS NOT NULL
+MERGE (c:Curso {
+  cursoId: row.cursoId
+})
+SET c.titulo = row.titulo, c.descripcion = row.descripcion, c.nivel = row.nivel, c.anioPublicacion = toInteger(row.anioPublicacion), c.calificacionPromedio = toFloat(row.calificacionPromedio);
+
+// Modulos
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/modulos.csv' AS row
+WITH row WHERE row.moduloId IS NOT NULL
+MERGE (m:Modulo {
+  moduloId: row.moduloId
+})
+SET m.titulo = row.titulo, m.numero = toInteger(row.numero);
+
+// Lecciones
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/lecciones.csv' AS row
+WITH row WHERE row.leccionId IS NOT NULL
+MERGE (l:Leccion {
+  leccionId: row.leccionId
+})
+SET l.titulo = row.titulo, l.descripcion = row.descripcion, l.duracionMin = toInteger(row.duracionMin), l.numero = toInteger(row.numero);
+
+// ****** RELACIONES ******
+
+// DISPONIBLE_EN
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/relationships/disponible_en.csv' AS row
+MATCH (curso:Curso {cursoId: row.idCurso})
+MATCH (pais:Pais {paisId: row.idPais})
+CREATE (curso)-[:DISPONIBLE_EN {
+    fechaInicio: date(row.fechaInicio),
+    fechaFin: CASE 
+        WHEN row.fechaFin <> "" THEN date(row.fechaFin) 
+        ELSE NULL 
+    END
+}]->(pais);
+
+// EN_IDIOMA
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/relationships/en_idioma.csv' AS row
+MATCH (curso:Curso {cursoId: row.idCurso})
+MATCH (idioma:Idioma {idiomaId: row.idIdioma})
+CREATE (curso)-[:EN_IDIOMA]->(idioma);
+
+// PERTENECE_A
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/relationships/pertenece_a.csv' AS row
+MATCH (curso:Curso {cursoId: row.idCurso})
+MATCH (categoria:Categoria {categoriaId: row.idCategoria})
+CREATE (curso)-[:PERTENECE_A]->(categoria);
+
+// ESTA_COMPUESTO
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/relationships/esta_compuesto.csv' AS row
+MATCH (curso:Curso {cursoId: row.idCurso})
+MATCH (modulo:Modulo {moduloId: row.idModulo})
+CREATE (curso)-[:ESTA_COMPUESTO { orden: toInteger(row.orden) }]->(modulo);
+
+// CONTIENE
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/relationships/contiene.csv' AS row
+MATCH (modulo:Modulo {moduloId: row.idModulo})
+MATCH (leccion:Leccion {leccionId: row.idLeccion})
+CREATE (modulo)-[:CONTIENE { orden: toInteger(row.orden) }]->(leccion);
+
+// RESIDE_EN
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/relationships/reside_en.csv' AS row
+MATCH (usuario:Usuario {usuarioId: row.idUsuario})
+MATCH (pais:Pais {paisId: row.idPais})
+CREATE (usuario)-[:RESIDE_EN]->(pais);
+
+// LE_GUSTA
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/relationships/le_gusta.csv' AS row
+MATCH (usuario:Usuario {usuarioId: row.idUsuario})
+MATCH (curso:Curso {cursoId: row.idCurso})
+CREATE (usuario)-[:LE_GUSTA {valoracion: toInteger(row.valoracion), fecha: date(row.fecha)}]->(curso);
+
+// INSCRITO_EN
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/relationships/inscrito_en.csv' AS row
+MATCH (usuario:Usuario {usuarioId: row.idUsuario})
+MATCH (curso:Curso {cursoId: row.idCurso})
+CREATE (usuario)-[:INSCRITO_EN {
+    fechaInicio: date(row.fechaInicio),
+    fechaFin: CASE 
+        WHEN row.fechaFin <> "" THEN date(row.fechaFin) 
+        ELSE NULL 
+    END,
+    progreso: toInteger(row.progreso),
+    estado: row.estado
+}]->(curso);
+
+// VIO
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/eddiedev14/Actividad-Neo4J/refs/heads/main/relationships/vio.csv' AS row
+MATCH (usuario:Usuario {usuarioId: row.idUsuario})
+MATCH (leccion:Leccion {leccionId: row.idLeccion})
+CREATE (usuario)-[:VIO {fecha: date(row.fecha), minutosReproducidos: toInteger(row.minutosReproducidos), finalizado: CASE WHEN toLower(row.finalizado) = "true" THEN true ELSE false END }]->(leccion);
