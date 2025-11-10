@@ -1,0 +1,72 @@
+"moduloId","titulo","numero"
+"M0001","Introduction à Python",1
+"M0002","Structures de données et collections",2
+"M0003","Programmation orientée objet",3
+"M0004","Projet pratique",4
+"M0005","Fundamentos do React",1
+"M0006","Estado e Hooks em profundidade",2
+"M0007","Roteamento e Arquitetura",3
+"M0008","Introduction to Python",1
+"M0009","Data Structures and Collections",2
+"M0010","Object-Oriented Programming",3
+"M0011","Practical Project",4
+"M0012","Introduction to SQL",1
+"M0013","Advanced Queries and Joins",2
+"M0014","Relational Modeling",3
+"M0015","Introdução ao Python",1
+"M0016","Estruturas de dados e coleções",2
+"M0017","Programação Orientada a Objetos",3
+"M0018","Redes neuronales básicas",1
+"M0019","Deep Learning con TensorFlow",2
+"M0020","Regularización y optimización",3
+"M0021","Proyecto de redes",4
+"M0022","Introducción a Python",1
+"M0023","Estructuras de datos y colecciones",2
+"M0024","Programación orientada a objetos",3
+"M0025","Contenedores y Docker",1
+"M0026","Dockerfiles y imágenes",2
+"M0027","Redes y volúmenes",3
+"M0028","Integración con CI/CD",4
+"M0029","Fundamentos C++",1
+"M0030","STL e boas práticas",2
+"M0031","Padrões de projeto",3
+"M0032","Otimização e memória",4
+"M0033","Fundamentos Django",1
+"M0034","APIs con Django REST",2
+"M0035","Autenticación y permisos",3
+"M0036","D3.js Concepts",1
+"M0037","DOM Manipulation with Data",2
+"M0038","Interactive Charts",3
+"M0039","Visualization Projects",4
+"M0040","Testing Principles",1
+"M0041","Unit Testing",2
+"M0042","Integration Testing",3
+"M0043","Automation",4
+"M0044","Introducción a Kubernetes",1
+"M0045","Deployments y services",2
+"M0046","Escalado y salud",3
+"M0047","Monitorización",4
+"M0048","Git Fundamentals",1
+"M0049","Branches and Workflows",2
+"M0050","Rebase and Merges",3
+"M0051","Introduction à Python",1
+"M0052","Structures de données et collections",2
+"M0053","Programmation orientée objet",3
+"M0054","Fundamentos AWS",1
+"M0055","Compute y almacenamiento",2
+"M0056","Bases de datos y redes",3
+"M0057","Widgets y layouts",1
+"M0058","Gestión de estado",2
+"M0059","Integración con servicios",3
+"M0060","Manipulación con Pandas",1
+"M0061","Limpieza de datos",2
+"M0062","Agrupaciones y joins",3
+"M0063","Visualización con Pandas",4
+"M0064","Principios de arquitectura",1
+"M0065","Patrones arquitectónicos",2
+"M0066","Diseño de sistemas",3
+"M0067","Caso práctico",4
+"M0068","Aspectos avanzados de ciberseguridad",1
+"M0069","Auditoría",2
+"M0070","Herramientas y mitigación",3
+"M0071","Respuesta ante incidentes",4

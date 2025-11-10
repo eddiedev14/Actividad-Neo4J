@@ -1,0 +1,5 @@
+"categoriaId","nombre","descripcion"
+"CAT001","Programación","Cursos sobre desarrollo de software y programación."
+"CAT002","Ciencia de Datos","Cursos sobre análisis de datos, estadística y machine learning."
+"CAT003","Desarrollo Web","Cursos front-end, back-end y fullstack."
+"CAT004","Ciberseguridad","Cursos sobre seguridad ofensiva, defensiva y prácticas seguras."

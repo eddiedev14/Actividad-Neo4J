@@ -1,0 +1,250 @@
+"leccionId","titulo","descripcion","duracionMin","numero"
+"L000001","Installation et configuration - Introduction à Python","Installation et configuration - Introduction à Python - Contenu théorique et pratique.",6,1
+"L000002","Concepts et théorie - Introduction à Python","Concepts et théorie - Introduction à Python - Contenu théorique et pratique.",13,2
+"L000003","Exemple pratique guidé - Introduction à Python","Exemple pratique guidé - Introduction à Python - Contenu théorique et pratique.",5,3
+"L000004","Exercice pour l'étudiant - Introduction à Python","Exercice pour l'étudiant - Introduction à Python - Contenu théorique et pratique.",5,4
+"L000005","Installation et configuration - Structures de données et collections","Installation et configuration - Structures de données et collections - Contenu théorique et pratique.",12,1
+"L000006","Concepts et théorie - Structures de données et collections","Concepts et théorie - Structures de données et collections - Contenu théorique et pratique.",16,2
+"L000007","Exemple pratique guidé - Structures de données et collections","Exemple pratique guidé - Structures de données et collections - Contenu théorique et pratique.",22,3
+"L000008","Exercice pour l'étudiant - Structures de données et collections","Exercice pour l'étudiant - Structures de données et collections - Contenu théorique et pratique.",9,4
+"L000009","Installation et configuration - Programmation orientée objet","Installation et configuration - Programmation orientée objet - Contenu théorique et pratique.",11,1
+"L000010","Concepts et théorie - Programmation orientée objet","Concepts et théorie - Programmation orientée objet - Contenu théorique et pratique.",16,2
+"L000011","Exemple pratique guidé - Programmation orientée objet","Exemple pratique guidé - Programmation orientée objet - Contenu théorique et pratique.",13,3
+"L000012","Installation et configuration - Projet pratique","Installation et configuration - Projet pratique - Contenu théorique et pratique.",18,1
+"L000013","Concepts et théorie - Projet pratique","Concepts et théorie - Projet pratique - Contenu théorique et pratique.",7,2
+"L000014","Exemple pratique guidé - Projet pratique","Exemple pratique guidé - Projet pratique - Contenu théorique et pratique.",15,3
+"L000015","Instalação e configuração - Fundamentos do React","Instalação e configuração - Fundamentos do React - Conteúdo teórico e prático.",7,1
+"L000016","Conceitos e teoria - Fundamentos do React","Conceitos e teoria - Fundamentos do React - Conteúdo teórico e prático.",8,2
+"L000017","Exemplo prático guiado - Fundamentos do React","Exemplo prático guiado - Fundamentos do React - Conteúdo teórico e prático.",24,3
+"L000018","Exercício para o aluno - Fundamentos do React","Exercício para o aluno - Fundamentos do React - Conteúdo teórico e prático.",27,4
+"L000019","Instalação e configuração - Estado e Hooks em profundidade","Instalação e configuração - Estado e Hooks em profundidade - Conteúdo teórico e prático.",8,1
+"L000020","Conceitos e teoria - Estado e Hooks em profundidade","Conceitos e teoria - Estado e Hooks em profundidade - Conteúdo teórico e prático.",7,2
+"L000021","Exemplo prático guiado - Estado e Hooks em profundidade","Exemplo prático guiado - Estado e Hooks em profundidade - Conteúdo teórico e prático.",7,3
+"L000022","Exercício para o aluno - Estado e Hooks em profundidade","Exercício para o aluno - Estado e Hooks em profundidade - Conteúdo teórico e prático.",8,4
+"L000023","Instalação e configuração - Roteamento e Arquitetura","Instalação e configuração - Roteamento e Arquitetura - Conteúdo teórico e prático.",20,1
+"L000024","Conceitos e teoria - Roteamento e Arquitetura","Conceitos e teoria - Roteamento e Arquitetura - Conteúdo teórico e prático.",8,2
+"L000025","Exemplo prático guiado - Roteamento e Arquitetura","Exemplo prático guiado - Roteamento e Arquitetura - Conteúdo teórico e prático.",18,3
+"L000026","Exercício para o aluno - Roteamento e Arquitetura","Exercício para o aluno - Roteamento e Arquitetura - Conteúdo teórico e prático.",10,4
+"L000027","Installation and setup - Introduction to Python","Installation and setup - Introduction to Python - Theoretical and practical content.",5,1
+"L000028","Concepts and theory - Introduction to Python","Concepts and theory - Introduction to Python - Theoretical and practical content.",9,2
+"L000029","Guided practical example - Introduction to Python","Guided practical example - Introduction to Python - Theoretical and practical content.",5,3
+"L000030","Installation and setup - Data Structures and Collections","Installation and setup - Data Structures and Collections - Theoretical and practical content.",29,1
+"L000031","Concepts and theory - Data Structures and Collections","Concepts and theory - Data Structures and Collections - Theoretical and practical content.",26,2
+"L000032","Guided practical example - Data Structures and Collections","Guided practical example - Data Structures and Collections - Theoretical and practical content.",23,3
+"L000033","Exercise for the student - Data Structures and Collections","Exercise for the student - Data Structures and Collections - Theoretical and practical content.",30,4
+"L000034","Installation and setup - Object-Oriented Programming","Installation and setup - Object-Oriented Programming - Theoretical and practical content.",28,1
+"L000035","Concepts and theory - Object-Oriented Programming","Concepts and theory - Object-Oriented Programming - Theoretical and practical content.",16,2
+"L000036","Guided practical example - Object-Oriented Programming","Guided practical example - Object-Oriented Programming - Theoretical and practical content.",12,3
+"L000037","Exercise for the student - Object-Oriented Programming","Exercise for the student - Object-Oriented Programming - Theoretical and practical content.",22,4
+"L000038","Installation and setup - Practical Project","Installation and setup - Practical Project - Theoretical and practical content.",9,1
+"L000039","Concepts and theory - Practical Project","Concepts and theory - Practical Project - Theoretical and practical content.",11,2
+"L000040","Guided practical example - Practical Project","Guided practical example - Practical Project - Theoretical and practical content.",14,3
+"L000041","Installation and setup - Introduction to SQL","Installation and setup - Introduction to SQL - Theoretical and practical content.",18,1
+"L000042","Concepts and theory - Introduction to SQL","Concepts and theory - Introduction to SQL - Theoretical and practical content.",30,2
+"L000043","Guided practical example - Introduction to SQL","Guided practical example - Introduction to SQL - Theoretical and practical content.",11,3
+"L000044","Installation and setup - Advanced Queries and Joins","Installation and setup - Advanced Queries and Joins - Theoretical and practical content.",30,1
+"L000045","Concepts and theory - Advanced Queries and Joins","Concepts and theory - Advanced Queries and Joins - Theoretical and practical content.",24,2
+"L000046","Guided practical example - Advanced Queries and Joins","Guided practical example - Advanced Queries and Joins - Theoretical and practical content.",24,3
+"L000047","Exercise for the student - Advanced Queries and Joins","Exercise for the student - Advanced Queries and Joins - Theoretical and practical content.",16,4
+"L000048","Installation and setup - Relational Modeling","Installation and setup - Relational Modeling - Theoretical and practical content.",18,1
+"L000049","Concepts and theory - Relational Modeling","Concepts and theory - Relational Modeling - Theoretical and practical content.",30,2
+"L000050","Guided practical example - Relational Modeling","Guided practical example - Relational Modeling - Theoretical and practical content.",7,3
+"L000051","Exercise for the student - Relational Modeling","Exercise for the student - Relational Modeling - Theoretical and practical content.",25,4
+"L000052","Instalação e configuração - Introdução ao Python","Instalação e configuração - Introdução ao Python - Conteúdo teórico e prático.",10,1
+"L000053","Conceitos e teoria - Introdução ao Python","Conceitos e teoria - Introdução ao Python - Conteúdo teórico e prático.",17,2
+"L000054","Exemplo prático guiado - Introdução ao Python","Exemplo prático guiado - Introdução ao Python - Conteúdo teórico e prático.",17,3
+"L000055","Exercício para o aluno - Introdução ao Python","Exercício para o aluno - Introdução ao Python - Conteúdo teórico e prático.",14,4
+"L000056","Instalação e configuração - Estruturas de dados e coleções","Instalação e configuração - Estruturas de dados e coleções - Conteúdo teórico e prático.",22,1
+"L000057","Conceitos e teoria - Estruturas de dados e coleções","Conceitos e teoria - Estruturas de dados e coleções - Conteúdo teórico e prático.",5,2
+"L000058","Exemplo prático guiado - Estruturas de dados e coleções","Exemplo prático guiado - Estruturas de dados e coleções - Conteúdo teórico e prático.",7,3
+"L000059","Instalação e configuração - Programação Orientada a Objetos","Instalação e configuração - Programação Orientada a Objetos - Conteúdo teórico e prático.",5,1
+"L000060","Conceitos e teoria - Programação Orientada a Objetos","Conceitos e teoria - Programação Orientada a Objetos - Conteúdo teórico e prático.",7,2
+"L000061","Exemplo prático guiado - Programação Orientada a Objetos","Exemplo prático guiado - Programação Orientada a Objetos - Conteúdo teórico e prático.",10,3
+"L000062","Exercício para o aluno - Programação Orientada a Objetos","Exercício para o aluno - Programação Orientada a Objetos - Conteúdo teórico e prático.",29,4
+"L000063","Instalación y configuración - Redes neuronales básicas","Instalación y configuración - Redes neuronales básicas - Contenido teórico y práctico.",26,1
+"L000064","Conceptos y teoría - Redes neuronales básicas","Conceptos y teoría - Redes neuronales básicas - Contenido teórico y práctico.",19,2
+"L000065","Ejemplo práctico guiado - Redes neuronales básicas","Ejemplo práctico guiado - Redes neuronales básicas - Contenido teórico y práctico.",6,3
+"L000066","Instalación y configuración - Deep Learning con TensorFlow","Instalación y configuración - Deep Learning con TensorFlow - Contenido teórico y práctico.",9,1
+"L000067","Conceptos y teoría - Deep Learning con TensorFlow","Conceptos y teoría - Deep Learning con TensorFlow - Contenido teórico y práctico.",18,2
+"L000068","Ejemplo práctico guiado - Deep Learning con TensorFlow","Ejemplo práctico guiado - Deep Learning con TensorFlow - Contenido teórico y práctico.",19,3
+"L000069","Ejercicio para el alumno - Deep Learning con TensorFlow","Ejercicio para el alumno - Deep Learning con TensorFlow - Contenido teórico y práctico.",17,4
+"L000070","Instalación y configuración - Regularización y optimización","Instalación y configuración - Regularización y optimización - Contenido teórico y práctico.",12,1
+"L000071","Conceptos y teoría - Regularización y optimización","Conceptos y teoría - Regularización y optimización - Contenido teórico y práctico.",11,2
+"L000072","Ejemplo práctico guiado - Regularización y optimización","Ejemplo práctico guiado - Regularización y optimización - Contenido teórico y práctico.",15,3
+"L000073","Ejercicio para el alumno - Regularización y optimización","Ejercicio para el alumno - Regularización y optimización - Contenido teórico y práctico.",30,4
+"L000074","Instalación y configuración - Proyecto de redes","Instalación y configuración - Proyecto de redes - Contenido teórico y práctico.",12,1
+"L000075","Conceptos y teoría - Proyecto de redes","Conceptos y teoría - Proyecto de redes - Contenido teórico y práctico.",10,2
+"L000076","Ejemplo práctico guiado - Proyecto de redes","Ejemplo práctico guiado - Proyecto de redes - Contenido teórico y práctico.",17,3
+"L000077","Ejercicio para el alumno - Proyecto de redes","Ejercicio para el alumno - Proyecto de redes - Contenido teórico y práctico.",19,4
+"L000078","Instalación y configuración - Introducción a Python","Instalación y configuración - Introducción a Python - Contenido teórico y práctico.",8,1
+"L000079","Conceptos y teoría - Introducción a Python","Conceptos y teoría - Introducción a Python - Contenido teórico y práctico.",11,2
+"L000080","Ejemplo práctico guiado - Introducción a Python","Ejemplo práctico guiado - Introducción a Python - Contenido teórico y práctico.",30,3
+"L000081","Instalación y configuración - Estructuras de datos y colecciones","Instalación y configuración - Estructuras de datos y colecciones - Contenido teórico y práctico.",9,1
+"L000082","Conceptos y teoría - Estructuras de datos y colecciones","Conceptos y teoría - Estructuras de datos y colecciones - Contenido teórico y práctico.",27,2
+"L000083","Ejemplo práctico guiado - Estructuras de datos y colecciones","Ejemplo práctico guiado - Estructuras de datos y colecciones - Contenido teórico y práctico.",19,3
+"L000084","Ejercicio para el alumno - Estructuras de datos y colecciones","Ejercicio para el alumno - Estructuras de datos y colecciones - Contenido teórico y práctico.",23,4
+"L000085","Instalación y configuración - Programación orientada a objetos","Instalación y configuración - Programación orientada a objetos - Contenido teórico y práctico.",27,1
+"L000086","Conceptos y teoría - Programación orientada a objetos","Conceptos y teoría - Programación orientada a objetos - Contenido teórico y práctico.",23,2
+"L000087","Ejemplo práctico guiado - Programación orientada a objetos","Ejemplo práctico guiado - Programación orientada a objetos - Contenido teórico y práctico.",5,3
+"L000088","Ejercicio para el alumno - Programación orientada a objetos","Ejercicio para el alumno - Programación orientada a objetos - Contenido teórico y práctico.",16,4
+"L000089","Instalación y configuración - Contenedores y Docker","Instalación y configuración - Contenedores y Docker - Contenido teórico y práctico.",14,1
+"L000090","Conceptos y teoría - Contenedores y Docker","Conceptos y teoría - Contenedores y Docker - Contenido teórico y práctico.",21,2
+"L000091","Ejemplo práctico guiado - Contenedores y Docker","Ejemplo práctico guiado - Contenedores y Docker - Contenido teórico y práctico.",11,3
+"L000092","Ejercicio para el alumno - Contenedores y Docker","Ejercicio para el alumno - Contenedores y Docker - Contenido teórico y práctico.",20,4
+"L000093","Instalación y configuración - Dockerfiles y imágenes","Instalación y configuración - Dockerfiles y imágenes - Contenido teórico y práctico.",26,1
+"L000094","Conceptos y teoría - Dockerfiles y imágenes","Conceptos y teoría - Dockerfiles y imágenes - Contenido teórico y práctico.",27,2
+"L000095","Ejemplo práctico guiado - Dockerfiles y imágenes","Ejemplo práctico guiado - Dockerfiles y imágenes - Contenido teórico y práctico.",25,3
+"L000096","Instalación y configuración - Redes y volúmenes","Instalación y configuración - Redes y volúmenes - Contenido teórico y práctico.",29,1
+"L000097","Conceptos y teoría - Redes y volúmenes","Conceptos y teoría - Redes y volúmenes - Contenido teórico y práctico.",11,2
+"L000098","Ejemplo práctico guiado - Redes y volúmenes","Ejemplo práctico guiado - Redes y volúmenes - Contenido teórico y práctico.",26,3
+"L000099","Instalación y configuración - Integración con CI/CD","Instalación y configuración - Integración con CI/CD - Contenido teórico y práctico.",30,1
+"L000100","Conceptos y teoría - Integración con CI/CD","Conceptos y teoría - Integración con CI/CD - Contenido teórico y práctico.",19,2
+"L000101","Ejemplo práctico guiado - Integración con CI/CD","Ejemplo práctico guiado - Integración con CI/CD - Contenido teórico y práctico.",8,3
+"L000102","Instalação e configuração - Fundamentos C++","Instalação e configuração - Fundamentos C++ - Conteúdo teórico e prático.",13,1
+"L000103","Conceitos e teoria - Fundamentos C++","Conceitos e teoria - Fundamentos C++ - Conteúdo teórico e prático.",26,2
+"L000104","Exemplo prático guiado - Fundamentos C++","Exemplo prático guiado - Fundamentos C++ - Conteúdo teórico e prático.",12,3
+"L000105","Instalação e configuração - STL e boas práticas","Instalação e configuração - STL e boas práticas - Conteúdo teórico e prático.",12,1
+"L000106","Conceitos e teoria - STL e boas práticas","Conceitos e teoria - STL e boas práticas - Conteúdo teórico e prático.",27,2
+"L000107","Exemplo prático guiado - STL e boas práticas","Exemplo prático guiado - STL e boas práticas - Conteúdo teórico e prático.",11,3
+"L000108","Instalação e configuração - Padrões de projeto","Instalação e configuração - Padrões de projeto - Conteúdo teórico e prático.",14,1
+"L000109","Conceitos e teoria - Padrões de projeto","Conceitos e teoria - Padrões de projeto - Conteúdo teórico e prático.",25,2
+"L000110","Exemplo prático guiado - Padrões de projeto","Exemplo prático guiado - Padrões de projeto - Conteúdo teórico e prático.",7,3
+"L000111","Instalação e configuração - Otimização e memória","Instalação e configuração - Otimização e memória - Conteúdo teórico e prático.",5,1
+"L000112","Conceitos e teoria - Otimização e memória","Conceitos e teoria - Otimização e memória - Conteúdo teórico e prático.",7,2
+"L000113","Exemplo prático guiado - Otimização e memória","Exemplo prático guiado - Otimização e memória - Conteúdo teórico e prático.",22,3
+"L000114","Instalación y configuración - Fundamentos Django","Instalación y configuración - Fundamentos Django - Contenido teórico y práctico.",26,1
+"L000115","Conceptos y teoría - Fundamentos Django","Conceptos y teoría - Fundamentos Django - Contenido teórico y práctico.",29,2
+"L000116","Ejemplo práctico guiado - Fundamentos Django","Ejemplo práctico guiado - Fundamentos Django - Contenido teórico y práctico.",28,3
+"L000117","Ejercicio para el alumno - Fundamentos Django","Ejercicio para el alumno - Fundamentos Django - Contenido teórico y práctico.",23,4
+"L000118","Instalación y configuración - APIs con Django REST","Instalación y configuración - APIs con Django REST - Contenido teórico y práctico.",25,1
+"L000119","Conceptos y teoría - APIs con Django REST","Conceptos y teoría - APIs con Django REST - Contenido teórico y práctico.",24,2
+"L000120","Ejemplo práctico guiado - APIs con Django REST","Ejemplo práctico guiado - APIs con Django REST - Contenido teórico y práctico.",10,3
+"L000121","Instalación y configuración - Autenticación y permisos","Instalación y configuración - Autenticación y permisos - Contenido teórico y práctico.",25,1
+"L000122","Conceptos y teoría - Autenticación y permisos","Conceptos y teoría - Autenticación y permisos - Contenido teórico y práctico.",13,2
+"L000123","Ejemplo práctico guiado - Autenticación y permisos","Ejemplo práctico guiado - Autenticación y permisos - Contenido teórico y práctico.",10,3
+"L000124","Ejercicio para el alumno - Autenticación y permisos","Ejercicio para el alumno - Autenticación y permisos - Contenido teórico y práctico.",13,4
+"L000125","Installation and setup - D3.js Concepts","Installation and setup - D3.js Concepts - Theoretical and practical content.",26,1
+"L000126","Concepts and theory - D3.js Concepts","Concepts and theory - D3.js Concepts - Theoretical and practical content.",22,2
+"L000127","Guided practical example - D3.js Concepts","Guided practical example - D3.js Concepts - Theoretical and practical content.",23,3
+"L000128","Exercise for the student - D3.js Concepts","Exercise for the student - D3.js Concepts - Theoretical and practical content.",28,4
+"L000129","Installation and setup - DOM Manipulation with Data","Installation and setup - DOM Manipulation with Data - Theoretical and practical content.",17,1
+"L000130","Concepts and theory - DOM Manipulation with Data","Concepts and theory - DOM Manipulation with Data - Theoretical and practical content.",12,2
+"L000131","Guided practical example - DOM Manipulation with Data","Guided practical example - DOM Manipulation with Data - Theoretical and practical content.",29,3
+"L000132","Installation and setup - Interactive Charts","Installation and setup - Interactive Charts - Theoretical and practical content.",21,1
+"L000133","Concepts and theory - Interactive Charts","Concepts and theory - Interactive Charts - Theoretical and practical content.",10,2
+"L000134","Guided practical example - Interactive Charts","Guided practical example - Interactive Charts - Theoretical and practical content.",15,3
+"L000135","Exercise for the student - Interactive Charts","Exercise for the student - Interactive Charts - Theoretical and practical content.",28,4
+"L000136","Installation and setup - Visualization Projects","Installation and setup - Visualization Projects - Theoretical and practical content.",19,1
+"L000137","Concepts and theory - Visualization Projects","Concepts and theory - Visualization Projects - Theoretical and practical content.",29,2
+"L000138","Guided practical example - Visualization Projects","Guided practical example - Visualization Projects - Theoretical and practical content.",26,3
+"L000139","Installation and setup - Testing Principles","Installation and setup - Testing Principles - Theoretical and practical content.",25,1
+"L000140","Concepts and theory - Testing Principles","Concepts and theory - Testing Principles - Theoretical and practical content.",16,2
+"L000141","Guided practical example - Testing Principles","Guided practical example - Testing Principles - Theoretical and practical content.",30,3
+"L000142","Exercise for the student - Testing Principles","Exercise for the student - Testing Principles - Theoretical and practical content.",20,4
+"L000143","Installation and setup - Unit Testing","Installation and setup - Unit Testing - Theoretical and practical content.",24,1
+"L000144","Concepts and theory - Unit Testing","Concepts and theory - Unit Testing - Theoretical and practical content.",21,2
+"L000145","Guided practical example - Unit Testing","Guided practical example - Unit Testing - Theoretical and practical content.",8,3
+"L000146","Installation and setup - Integration Testing","Installation and setup - Integration Testing - Theoretical and practical content.",18,1
+"L000147","Concepts and theory - Integration Testing","Concepts and theory - Integration Testing - Theoretical and practical content.",8,2
+"L000148","Guided practical example - Integration Testing","Guided practical example - Integration Testing - Theoretical and practical content.",13,3
+"L000149","Installation and setup - Automation","Installation and setup - Automation - Theoretical and practical content.",12,1
+"L000150","Concepts and theory - Automation","Concepts and theory - Automation - Theoretical and practical content.",27,2
+"L000151","Guided practical example - Automation","Guided practical example - Automation - Theoretical and practical content.",10,3
+"L000152","Exercise for the student - Automation","Exercise for the student - Automation - Theoretical and practical content.",25,4
+"L000153","Instalación y configuración - Introducción a Kubernetes","Instalación y configuración - Introducción a Kubernetes - Contenido teórico y práctico.",5,1
+"L000154","Conceptos y teoría - Introducción a Kubernetes","Conceptos y teoría - Introducción a Kubernetes - Contenido teórico y práctico.",14,2
+"L000155","Ejemplo práctico guiado - Introducción a Kubernetes","Ejemplo práctico guiado - Introducción a Kubernetes - Contenido teórico y práctico.",13,3
+"L000156","Instalación y configuración - Deployments y services","Instalación y configuración - Deployments y services - Contenido teórico y práctico.",29,1
+"L000157","Conceptos y teoría - Deployments y services","Conceptos y teoría - Deployments y services - Contenido teórico y práctico.",13,2
+"L000158","Ejemplo práctico guiado - Deployments y services","Ejemplo práctico guiado - Deployments y services - Contenido teórico y práctico.",27,3
+"L000159","Ejercicio para el alumno - Deployments y services","Ejercicio para el alumno - Deployments y services - Contenido teórico y práctico.",19,4
+"L000160","Instalación y configuración - Escalado y salud","Instalación y configuración - Escalado y salud - Contenido teórico y práctico.",11,1
+"L000161","Conceptos y teoría - Escalado y salud","Conceptos y teoría - Escalado y salud - Contenido teórico y práctico.",22,2
+"L000162","Ejemplo práctico guiado - Escalado y salud","Ejemplo práctico guiado - Escalado y salud - Contenido teórico y práctico.",17,3
+"L000163","Instalación y configuración - Monitorización","Instalación y configuración - Monitorización - Contenido teórico y práctico.",25,1
+"L000164","Conceptos y teoría - Monitorización","Conceptos y teoría - Monitorización - Contenido teórico y práctico.",22,2
+"L000165","Ejemplo práctico guiado - Monitorización","Ejemplo práctico guiado - Monitorización - Contenido teórico y práctico.",8,3
+"L000166","Installation and setup - Git Fundamentals","Installation and setup - Git Fundamentals - Theoretical and practical content.",12,1
+"L000167","Concepts and theory - Git Fundamentals","Concepts and theory - Git Fundamentals - Theoretical and practical content.",7,2
+"L000168","Guided practical example - Git Fundamentals","Guided practical example - Git Fundamentals - Theoretical and practical content.",23,3
+"L000169","Exercise for the student - Git Fundamentals","Exercise for the student - Git Fundamentals - Theoretical and practical content.",25,4
+"L000170","Installation and setup - Branches and Workflows","Installation and setup - Branches and Workflows - Theoretical and practical content.",26,1
+"L000171","Concepts and theory - Branches and Workflows","Concepts and theory - Branches and Workflows - Theoretical and practical content.",5,2
+"L000172","Guided practical example - Branches and Workflows","Guided practical example - Branches and Workflows - Theoretical and practical content.",30,3
+"L000173","Installation and setup - Rebase and Merges","Installation and setup - Rebase and Merges - Theoretical and practical content.",14,1
+"L000174","Concepts and theory - Rebase and Merges","Concepts and theory - Rebase and Merges - Theoretical and practical content.",20,2
+"L000175","Guided practical example - Rebase and Merges","Guided practical example - Rebase and Merges - Theoretical and practical content.",24,3
+"L000176","Installation et configuration - Introduction à Python","Installation et configuration - Introduction à Python - Contenu théorique et pratique.",21,1
+"L000177","Concepts et théorie - Introduction à Python","Concepts et théorie - Introduction à Python - Contenu théorique et pratique.",13,2
+"L000178","Exemple pratique guidé - Introduction à Python","Exemple pratique guidé - Introduction à Python - Contenu théorique et pratique.",13,3
+"L000179","Exercice pour l'étudiant - Introduction à Python","Exercice pour l'étudiant - Introduction à Python - Contenu théorique et pratique.",30,4
+"L000180","Installation et configuration - Structures de données et collections","Installation et configuration - Structures de données et collections - Contenu théorique et pratique.",14,1
+"L000181","Concepts et théorie - Structures de données et collections","Concepts et théorie - Structures de données et collections - Contenu théorique et pratique.",20,2
+"L000182","Exemple pratique guidé - Structures de données et collections","Exemple pratique guidé - Structures de données et collections - Contenu théorique et pratique.",13,3
+"L000183","Exercice pour l'étudiant - Structures de données et collections","Exercice pour l'étudiant - Structures de données et collections - Contenu théorique et pratique.",30,4
+"L000184","Installation et configuration - Programmation orientée objet","Installation et configuration - Programmation orientée objet - Contenu théorique et pratique.",16,1
+"L000185","Concepts et théorie - Programmation orientée objet","Concepts et théorie - Programmation orientée objet - Contenu théorique et pratique.",9,2
+"L000186","Exemple pratique guidé - Programmation orientée objet","Exemple pratique guidé - Programmation orientée objet - Contenu théorique et pratique.",29,3
+"L000187","Instalación y configuración - Fundamentos AWS","Instalación y configuración - Fundamentos AWS - Contenido teórico y práctico.",27,1
+"L000188","Conceptos y teoría - Fundamentos AWS","Conceptos y teoría - Fundamentos AWS - Contenido teórico y práctico.",13,2
+"L000189","Ejemplo práctico guiado - Fundamentos AWS","Ejemplo práctico guiado - Fundamentos AWS - Contenido teórico y práctico.",7,3
+"L000190","Ejercicio para el alumno - Fundamentos AWS","Ejercicio para el alumno - Fundamentos AWS - Contenido teórico y práctico.",11,4
+"L000191","Instalación y configuración - Compute y almacenamiento","Instalación y configuración - Compute y almacenamiento - Contenido teórico y práctico.",9,1
+"L000192","Conceptos y teoría - Compute y almacenamiento","Conceptos y teoría - Compute y almacenamiento - Contenido teórico y práctico.",27,2
+"L000193","Ejemplo práctico guiado - Compute y almacenamiento","Ejemplo práctico guiado - Compute y almacenamiento - Contenido teórico y práctico.",28,3
+"L000194","Ejercicio para el alumno - Compute y almacenamiento","Ejercicio para el alumno - Compute y almacenamiento - Contenido teórico y práctico.",18,4
+"L000195","Instalación y configuración - Bases de datos y redes","Instalación y configuración - Bases de datos y redes - Contenido teórico y práctico.",6,1
+"L000196","Conceptos y teoría - Bases de datos y redes","Conceptos y teoría - Bases de datos y redes - Contenido teórico y práctico.",5,2
+"L000197","Ejemplo práctico guiado - Bases de datos y redes","Ejemplo práctico guiado - Bases de datos y redes - Contenido teórico y práctico.",25,3
+"L000198","Instalación y configuración - Widgets y layouts","Instalación y configuración - Widgets y layouts - Contenido teórico y práctico.",7,1
+"L000199","Conceptos y teoría - Widgets y layouts","Conceptos y teoría - Widgets y layouts - Contenido teórico y práctico.",11,2
+"L000200","Ejemplo práctico guiado - Widgets y layouts","Ejemplo práctico guiado - Widgets y layouts - Contenido teórico y práctico.",22,3
+"L000201","Instalación y configuración - Gestión de estado","Instalación y configuración - Gestión de estado - Contenido teórico y práctico.",22,1
+"L000202","Conceptos y teoría - Gestión de estado","Conceptos y teoría - Gestión de estado - Contenido teórico y práctico.",14,2
+"L000203","Ejemplo práctico guiado - Gestión de estado","Ejemplo práctico guiado - Gestión de estado - Contenido teórico y práctico.",22,3
+"L000204","Instalación y configuración - Integración con servicios","Instalación y configuración - Integración con servicios - Contenido teórico y práctico.",16,1
+"L000205","Conceptos y teoría - Integración con servicios","Conceptos y teoría - Integración con servicios - Contenido teórico y práctico.",30,2
+"L000206","Ejemplo práctico guiado - Integración con servicios","Ejemplo práctico guiado - Integración con servicios - Contenido teórico y práctico.",29,3
+"L000207","Ejercicio para el alumno - Integración con servicios","Ejercicio para el alumno - Integración con servicios - Contenido teórico y práctico.",23,4
+"L000208","Instalación y configuración - Manipulación con Pandas","Instalación y configuración - Manipulación con Pandas - Contenido teórico y práctico.",29,1
+"L000209","Conceptos y teoría - Manipulación con Pandas","Conceptos y teoría - Manipulación con Pandas - Contenido teórico y práctico.",29,2
+"L000210","Ejemplo práctico guiado - Manipulación con Pandas","Ejemplo práctico guiado - Manipulación con Pandas - Contenido teórico y práctico.",28,3
+"L000211","Instalación y configuración - Limpieza de datos","Instalación y configuración - Limpieza de datos - Contenido teórico y práctico.",7,1
+"L000212","Conceptos y teoría - Limpieza de datos","Conceptos y teoría - Limpieza de datos - Contenido teórico y práctico.",27,2
+"L000213","Ejemplo práctico guiado - Limpieza de datos","Ejemplo práctico guiado - Limpieza de datos - Contenido teórico y práctico.",16,3
+"L000214","Ejercicio para el alumno - Limpieza de datos","Ejercicio para el alumno - Limpieza de datos - Contenido teórico y práctico.",5,4
+"L000215","Instalación y configuración - Agrupaciones y joins","Instalación y configuración - Agrupaciones y joins - Contenido teórico y práctico.",19,1
+"L000216","Conceptos y teoría - Agrupaciones y joins","Conceptos y teoría - Agrupaciones y joins - Contenido teórico y práctico.",9,2
+"L000217","Ejemplo práctico guiado - Agrupaciones y joins","Ejemplo práctico guiado - Agrupaciones y joins - Contenido teórico y práctico.",28,3
+"L000218","Ejercicio para el alumno - Agrupaciones y joins","Ejercicio para el alumno - Agrupaciones y joins - Contenido teórico y práctico.",27,4
+"L000219","Instalación y configuración - Visualización con Pandas","Instalación y configuración - Visualización con Pandas - Contenido teórico y práctico.",14,1
+"L000220","Conceptos y teoría - Visualización con Pandas","Conceptos y teoría - Visualización con Pandas - Contenido teórico y práctico.",29,2
+"L000221","Ejemplo práctico guiado - Visualización con Pandas","Ejemplo práctico guiado - Visualización con Pandas - Contenido teórico y práctico.",22,3
+"L000222","Instalación y configuración - Principios de arquitectura","Instalación y configuración - Principios de arquitectura - Contenido teórico y práctico.",10,1
+"L000223","Conceptos y teoría - Principios de arquitectura","Conceptos y teoría - Principios de arquitectura - Contenido teórico y práctico.",23,2
+"L000224","Ejemplo práctico guiado - Principios de arquitectura","Ejemplo práctico guiado - Principios de arquitectura - Contenido teórico y práctico.",15,3
+"L000225","Instalación y configuración - Patrones arquitectónicos","Instalación y configuración - Patrones arquitectónicos - Contenido teórico y práctico.",24,1
+"L000226","Conceptos y teoría - Patrones arquitectónicos","Conceptos y teoría - Patrones arquitectónicos - Contenido teórico y práctico.",9,2
+"L000227","Ejemplo práctico guiado - Patrones arquitectónicos","Ejemplo práctico guiado - Patrones arquitectónicos - Contenido teórico y práctico.",9,3
+"L000228","Ejercicio para el alumno - Patrones arquitectónicos","Ejercicio para el alumno - Patrones arquitectónicos - Contenido teórico y práctico.",22,4
+"L000229","Instalación y configuración - Diseño de sistemas","Instalación y configuración - Diseño de sistemas - Contenido teórico y práctico.",15,1
+"L000230","Conceptos y teoría - Diseño de sistemas","Conceptos y teoría - Diseño de sistemas - Contenido teórico y práctico.",6,2
+"L000231","Ejemplo práctico guiado - Diseño de sistemas","Ejemplo práctico guiado - Diseño de sistemas - Contenido teórico y práctico.",11,3
+"L000232","Instalación y configuración - Caso práctico","Instalación y configuración - Caso práctico - Contenido teórico y práctico.",20,1
+"L000233","Conceptos y teoría - Caso práctico","Conceptos y teoría - Caso práctico - Contenido teórico y práctico.",5,2
+"L000234","Ejemplo práctico guiado - Caso práctico","Ejemplo práctico guiado - Caso práctico - Contenido teórico y práctico.",10,3
+"L000235","Ejercicio para el alumno - Caso práctico","Ejercicio para el alumno - Caso práctico - Contenido teórico y práctico.",8,4
+"L000236","Instalación y configuración - Aspectos avanzados de ciberseguridad","Instalación y configuración - Aspectos avanzados de ciberseguridad - Contenido teórico y práctico.",23,1
+"L000237","Conceptos y teoría - Aspectos avanzados de ciberseguridad","Conceptos y teoría - Aspectos avanzados de ciberseguridad - Contenido teórico y práctico.",28,2
+"L000238","Ejemplo práctico guiado - Aspectos avanzados de ciberseguridad","Ejemplo práctico guiado - Aspectos avanzados de ciberseguridad - Contenido teórico y práctico.",12,3
+"L000239","Ejercicio para el alumno - Aspectos avanzados de ciberseguridad","Ejercicio para el alumno - Aspectos avanzados de ciberseguridad - Contenido teórico y práctico.",22,4
+"L000240","Instalación y configuración - Auditoría","Instalación y configuración - Auditoría - Contenido teórico y práctico.",8,1
+"L000241","Conceptos y teoría - Auditoría","Conceptos y teoría - Auditoría - Contenido teórico y práctico.",10,2
+"L000242","Ejemplo práctico guiado - Auditoría","Ejemplo práctico guiado - Auditoría - Contenido teórico y práctico.",13,3
+"L000243","Instalación y configuración - Herramientas y mitigación","Instalación y configuración - Herramientas y mitigación - Contenido teórico y práctico.",6,1
+"L000244","Conceptos y teoría - Herramientas y mitigación","Conceptos y teoría - Herramientas y mitigación - Contenido teórico y práctico.",9,2
+"L000245","Ejemplo práctico guiado - Herramientas y mitigación","Ejemplo práctico guiado - Herramientas y mitigación - Contenido teórico y práctico.",16,3
+"L000246","Ejercicio para el alumno - Herramientas y mitigación","Ejercicio para el alumno - Herramientas y mitigación - Contenido teórico y práctico.",21,4
+"L000247","Instalación y configuración - Respuesta ante incidentes","Instalación y configuración - Respuesta ante incidentes - Contenido teórico y práctico.",11,1
+"L000248","Conceptos y teoría - Respuesta ante incidentes","Conceptos y teoría - Respuesta ante incidentes - Contenido teórico y práctico.",7,2
+"L000249","Ejemplo práctico guiado - Respuesta ante incidentes","Ejemplo práctico guiado - Respuesta ante incidentes - Contenido teórico y práctico.",7,3
